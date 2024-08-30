@@ -38,3 +38,8 @@ to create and reuse the type across application use the **type** directory use i
 
 Make sure to add all custome hooks in the **hooks** directory to maintain the scalable structure of the application 
 
+# Live Demo
+
+https://main--bucolic-eclair-d29946.netlify.app/
+
+Please run on dev mode to view the images 
