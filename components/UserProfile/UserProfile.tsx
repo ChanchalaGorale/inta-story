@@ -26,4 +26,6 @@ const UserProfile: React.FC<Props> = React.memo(({ user, onClose }) => {
   );
 });
 
+UserProfile.displayName = "UserProfile";
+
 export default UserProfile;

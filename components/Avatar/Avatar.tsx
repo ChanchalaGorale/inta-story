@@ -34,4 +34,6 @@ const Avatar: React.FC<Props> = React.memo(
   }
 );
 
+Avatar.displayName = "Avatar";
+
 export default Avatar;

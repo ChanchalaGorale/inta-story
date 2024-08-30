@@ -27,4 +27,6 @@ const ShowStory: React.FC<Prop> = React.memo(({ story, swipe }) => {
   );
 });
 
+ShowStory.displayName = "ShowStory";
+
 export default ShowStory;
